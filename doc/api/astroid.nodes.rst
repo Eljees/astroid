@@ -80,6 +80,7 @@ Nodes
    astroid.nodes.TryStar
    astroid.nodes.Tuple
    astroid.nodes.TypeAlias
+   astroid.nodes.TypeParamScope
    astroid.nodes.TypeVar
    astroid.nodes.TypeVarTuple
    astroid.nodes.UnaryOp
